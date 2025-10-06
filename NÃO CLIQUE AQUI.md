@@ -34,7 +34,7 @@
   <a href="https://github.com/daniloprazeres" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/danilopraseres" target="_blank">
+  <a href="https://www.linkedin.com/in/danilo-praseres-350bb2388/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -51,3 +51,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danilopraseres&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
+
